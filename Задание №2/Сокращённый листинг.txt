@@ -1,0 +1,141 @@
+tomcat9
+├── bin
+├── conf
+│   └── Catalina
+│       └── localhost
+├── lib
+├── logs
+├── temp
+├── webapps
+│   ├── docs
+│   │   ├── annotationapi
+│   │   ├── api
+│   │   ├── appdev
+│   │   │   └── sample
+│   │   │       ├── docs
+│   │   │       ├── src
+│   │   │       │   └── mypackage
+│   │   │       └── web
+│   │   │           ├── images
+│   │   │           └── WEB-INF
+│   │   ├── architecture
+│   │   │   ├── requestProcess
+│   │   │   └── startup
+│   │   ├── config
+│   │   ├── elapi
+│   │   ├── funcspecs
+│   │   ├── images
+│   │   │   └── fonts
+│   │   ├── jaspicapi
+│   │   ├── jspapi
+│   │   ├── servletapi
+│   │   ├── tribes
+│   │   ├── WEB-INF
+│   │   └── websocketapi
+│   ├── examples
+│   │   ├── jsp
+│   │   │   ├── async
+│   │   │   ├── cal
+│   │   │   ├── checkbox
+│   │   │   ├── colors
+│   │   │   ├── dates
+│   │   │   ├── error
+│   │   │   ├── forward
+│   │   │   ├── images
+│   │   │   ├── include
+│   │   │   ├── jsp2
+│   │   │   │   ├── el
+│   │   │   │   ├── jspattribute
+│   │   │   │   ├── jspx
+│   │   │   │   ├── misc
+│   │   │   │   ├── simpletag
+│   │   │   │   └── tagfiles
+│   │   │   ├── jsptoserv
+│   │   │   ├── num
+│   │   │   ├── plugin
+│   │   │   │   └── applet
+│   │   │   ├── security
+│   │   │   │   └── protected
+│   │   │   ├── sessions
+│   │   │   ├── simpletag
+│   │   │   ├── snp
+│   │   │   ├── tagplugin
+│   │   │   └── xml
+│   │   ├── servlets
+│   │   │   ├── images
+│   │   │   └── nonblocking
+│   │   ├── WEB-INF
+│   │   │   ├── classes
+│   │   │   │   ├── async
+│   │   │   │   ├── cal
+│   │   │   │   ├── checkbox
+│   │   │   │   ├── colors
+│   │   │   │   ├── compressionFilters
+│   │   │   │   ├── dates
+│   │   │   │   ├── error
+│   │   │   │   ├── examples
+│   │   │   │   ├── filters
+│   │   │   │   ├── http2
+│   │   │   │   ├── jsp2
+│   │   │   │   │   └── examples
+│   │   │   │   │       ├── el
+│   │   │   │   │       └── simpletag
+│   │   │   │   ├── listeners
+│   │   │   │   ├── nonblocking
+│   │   │   │   ├── num
+│   │   │   │   ├── sessions
+│   │   │   │   ├── trailers
+│   │   │   │   ├── util
+│   │   │   │   ├── validators
+│   │   │   │   └── websocket
+│   │   │   │       ├── chat
+│   │   │   │       ├── drawboard
+│   │   │   │       │   └── wsmessages
+│   │   │   │       ├── echo
+│   │   │   │       └── snake
+│   │   │   ├── jsp
+│   │   │   │   └── applet
+│   │   │   ├── jsp2
+│   │   │   ├── lib
+│   │   │   └── tags
+│   │   └── websocket
+│   ├── host-manager
+│   │   ├── images
+│   │   ├── META-INF
+│   │   └── WEB-INF
+│   │       └── jsp
+│   ├── manager
+│   │   ├── images
+│   │   ├── META-INF
+│   │   └── WEB-INF
+│   │       └── jsp
+│   ├── myapp
+│   └── ROOT
+│       └── WEB-INF
+└── work
+    └── Catalina
+        └── localhost
+            ├── docs
+            ├── examples
+            ├── host-manager
+            │   └── org
+            │       └── apache
+            │           └── jsp
+            │               └── WEB_002dINF
+            │                   └── jsp
+            ├── manager
+            │   └── org
+            │       └── apache
+            │           └── jsp
+            │               └── WEB_002dINF
+            │                   └── jsp
+            ├── myapp
+            │   └── org
+            │       └── apache
+            │           └── jsp
+            └── ROOT
+                └── org
+                    └── apache
+                        └── jsp
+
+138 directories
